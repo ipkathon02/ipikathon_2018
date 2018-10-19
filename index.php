@@ -44,7 +44,7 @@ and open the template in the editor.
             <div class="footer">
                 <a href="Nav.php"><button type="button" class="btn btn-danger btn-circle btn-xl"><i class="fa fa-map-signs"></i>
                 </button></a>
-                    <a href="langue.php"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
+                    <a href="#"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
                     </button></a>
                     <a href="help.php"><button type="button" class="btn btn-success btn-circle btn-xl"><i class="fa fa-question"></i>
                     </button></a>

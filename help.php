@@ -28,7 +28,7 @@ and open the template in the editor.
                     </div>
             </div>
             <div class="footer">
-                    <a href="langue.php"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
+                    <a href="#"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
                     </button></a>
                     <a href="help.php"><button type="button" class="btn btn-success btn-circle btn-xl"><i class="fa fa-question"></i>
                     </button></a>
@@ -36,7 +36,7 @@ and open the template in the editor.
                     </button></a>                 
             </div>
             <div class="home">
-                    <a href="index.html"><i class="fa fa-home"></i></a>
+                    <a href="index.php"><i class="fa fa-home"></i></a>
                     </button>
             </div>
         </div>
