@@ -33,3 +33,27 @@ html,body{
     justify-content: space-around;
     margin-bottom: 2%;
 }
+.content{
+margin: 0 20%;
+margin-top: 30%;
+}
+.direction{
+font-size: 2em;
+}
+.visio{
+
+}
+.home{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10em;
+}
+#icon{
+    font-size: 20em;
+    margin: 5% 5%;
+    padding: 20%;
+    border: 3px solid black;
+}
+#title{
+    margin: 0 40%;
+}
