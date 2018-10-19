@@ -28,11 +28,11 @@ and open the template in the editor.
                     </div>
             </div>
             <div class="footer">
-                    <a href="langue.html"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
+                    <a href="langue.php"><button type="button" class="btn btn-primary btn-circle btn-xl"><i class="fa fa-globe-americas"></i>
                     </button></a>
-                    <a href="help.html"><button type="button" class="btn btn-success btn-circle btn-xl"><i class="fa fa-question"></i>
+                    <a href="help.php"><button type="button" class="btn btn-success btn-circle btn-xl"><i class="fa fa-question"></i>
                     </button></a>
-                    <a href="index.html"><button type="button" class="btn btn-info btn-circle btn-xl"><i class="fa fa-times"></i>
+                    <a href="index.php"><button type="button" class="btn btn-info btn-circle btn-xl"><i class="fa fa-times"></i>
                     </button></a>                 
             </div>
             <div class="home">
